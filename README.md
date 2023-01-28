@@ -4,7 +4,7 @@ A simple endless runner web-based computer games that are inspired by the Google
 
 This Web-Based Computer game was created for educational purposes mainly to demonstrate how an engaging games can be created on the web, and it also aids in the development of cooperation skills.
 
-Group Project of 8 People:
+# Team Member
 Lead-by:
 Muhammad Amir Azizi Bin Haji shukry
 
