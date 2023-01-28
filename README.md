@@ -9,8 +9,8 @@ Lead-by:
 Muhammad Amir Azizi Bin Haji shukry
 
 Design team:
-Woo Tzeng Shuin
-Radin Mas Halimahtul Amyza @ Siti Aisyah Binti Radin Mas Emran
+- Woo Tzeng Shuin
+- Radin Mas Halimahtul Amyza @ Siti Aisyah Binti Radin Mas Emran
 
 Obstacle generator and SFX team:
 Abdul Mu'iz Bin Eddy
